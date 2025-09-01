@@ -10,17 +10,17 @@ GCC (tested on GCC 7.5.0)
 
 Python (tested on Python 3.8)
 
-PyTorch (tested on  PyTorch 1.12.1 with CUDA 11.3)
+- PyTorch (tested on  PyTorch 1.12.1 with CUDA 11.3)
 
-tensorboard
+- TensorBoard
 
-OpenCV
+- OpenCV
 
-SciPy
+- SciPy
 
-tqdm
+- tqdm
 
-[ocamcalib](https://github.com/matsuren/ocamcalib_undistort)
+- [ocamcalib](https://github.com/matsuren/ocamcalib_undistort)
 
 
 
@@ -77,4 +77,5 @@ The partial code in the `models/spherical_sweep.py` file is adapted from [OmniMV
 The partial code in the `models/stereo_matching.py` and `models/submodule.py` files is adapted from [Fast-ACVNet](https://github.com/gangweiX/Fast-ACVNet).
 
 Thanks for opening source of their excellent works.
+
 
