@@ -28,6 +28,8 @@ tqdm
 
 Download `Urban`(cloudy, sunny and sunset), `OmniHouse` and `OmniThings` from [Omnidirectional Stereo Dataset](https://github.com/hyu-cvlab/omnimvs-pytorch).
 
+Note: The pose information in `poses.txt` is different from that in `config.yaml`. Please refer to `config.yaml` as the standard.
+
 
 
 ## Setup
@@ -75,3 +77,4 @@ The partial code in the `models/spherical_sweep.py` file is adapted from [OmniMV
 The partial code in the `models/stereo_matching.py` and `models/submodule.py` files is adapted from [Fast-ACVNet](https://github.com/gangweiX/Fast-ACVNet).
 
 Thanks for opening source of their excellent works.
+
